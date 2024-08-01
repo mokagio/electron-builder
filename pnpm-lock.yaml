@@ -292,8 +292,8 @@ importers:
         specifier: workspace:*
         version: link:../builder-util-runtime
       chalk:
-        specifier: ^4.1.2
-        version: 4.1.2
+        specifier: ^5.0.0
+        version: 5.3.0
       cross-spawn:
         specifier: ^7.0.3
         version: 7.0.3
@@ -404,8 +404,8 @@ importers:
         specifier: workspace:*
         version: link:../builder-util-runtime
       chalk:
-        specifier: ^4.1.2
-        version: 4.1.2
+        specifier: ^5.0.0
+        version: 5.3.0
       dmg-builder:
         specifier: workspace:*
         version: link:../dmg-builder
@@ -496,8 +496,8 @@ importers:
         specifier: workspace:*
         version: link:../builder-util-runtime
       chalk:
-        specifier: ^4.1.2
-        version: 4.1.2
+        specifier: ^5.0.0
+        version: 5.3.0
       fs-extra:
         specifier: ^10.1.0
         version: 10.1.0
@@ -5831,7 +5831,7 @@ packages:
   puppeteer@2.1.1:
     resolution: {integrity: sha512-LWzaDVQkk1EPiuYeTOj+CZRIjda4k2s5w4MK4xoH2+kgWV/SDlkYHmxatDdtYrciHUKSXTsGgPgPP8ILVdBsxg==}
     engines: {node: '>=8.16.0'}
-    deprecated: < 22.6.4 is no longer supported
+    deprecated: < 22.8.2 is no longer supported
 
   q@1.5.1:
     resolution: {integrity: sha512-kV/CThkXo6xyFEZUugw/+pIOywXcDbFYgSct5cT3gqlbkBE1SJdwy6UQoZvodiWF/ckQLZyDE/Bu1M6gVu5lVw==}
