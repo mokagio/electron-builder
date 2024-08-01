@@ -262,8 +262,8 @@ importers:
         specifier: 4.0.3
         version: 4.0.3
       '@types/semver':
-        specifier: 7.3.8
-        version: 7.3.8
+        specifier: 7.5.8
+        version: 7.5.8
       '@types/tar':
         specifier: ^6.1.3
         version: 6.1.11
@@ -2398,9 +2398,6 @@ packages:
 
   '@types/semver@6.2.7':
     resolution: {integrity: sha512-blctEWbzUFzQx799RZjzzIdBJOXmE37YYEyDtKkx5Dg+V7o/zyyAxLPiI98A2jdTtDgxZleMdfV+7p8WbRJ1OQ==}
-
-  '@types/semver@7.3.8':
-    resolution: {integrity: sha512-D/2EJvAlCEtYFEYmmlGwbGXuK886HzyCc3nZX/tkFTQdEU8jZDAgiv08P162yB17y4ZXZoq7yFAnW4GDBb9Now==}
 
   '@types/semver@7.5.8':
     resolution: {integrity: sha512-I8EUhyrgfLrcTkzV3TSsGyl1tSuPrEDzr0yd5m90UgNxQkyDXULk3b6MlQqTCpZpNtWe1K0hzclnZkTcLBe2UQ==}
@@ -5831,7 +5828,7 @@ packages:
   puppeteer@2.1.1:
     resolution: {integrity: sha512-LWzaDVQkk1EPiuYeTOj+CZRIjda4k2s5w4MK4xoH2+kgWV/SDlkYHmxatDdtYrciHUKSXTsGgPgPP8ILVdBsxg==}
     engines: {node: '>=8.16.0'}
-    deprecated: < 22.6.4 is no longer supported
+    deprecated: < 22.8.2 is no longer supported
 
   q@1.5.1:
     resolution: {integrity: sha512-kV/CThkXo6xyFEZUugw/+pIOywXcDbFYgSct5cT3gqlbkBE1SJdwy6UQoZvodiWF/ckQLZyDE/Bu1M6gVu5lVw==}
@@ -9580,8 +9577,6 @@ snapshots:
       '@types/node': 16.18.55
 
   '@types/semver@6.2.7': {}
-
-  '@types/semver@7.3.8': {}
 
   '@types/semver@7.5.8': {}
 
