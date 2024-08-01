@@ -549,8 +549,8 @@ importers:
         specifier: 4.1.6
         version: 4.1.6
       '@types/lodash.isequal':
-        specifier: 4.5.5
-        version: 4.5.5
+        specifier: 4.5.8
+        version: 4.5.8
       '@types/semver':
         specifier: ^7.3.13
         version: 7.5.8
@@ -2339,8 +2339,8 @@ packages:
   '@types/lodash.escaperegexp@4.1.6':
     resolution: {integrity: sha512-uENiqxLlqh6RzeE1cC6Z2gHqakToN9vKlTVCFkSVjAfeMeh2fY0916tHwJHeeKs28qB/hGYvKuampGYH5QDVCw==}
 
-  '@types/lodash.isequal@4.5.5':
-    resolution: {integrity: sha512-4IKbinG7MGP131wRfceK6W4E/Qt3qssEFLF30LnJbjYiSfHGGRU/Io8YxXrZX109ir+iDETC8hw8QsDijukUVg==}
+  '@types/lodash.isequal@4.5.8':
+    resolution: {integrity: sha512-uput6pg4E/tj2LGxCZo9+y27JNyB2OZuuI/T5F+ylVDYuqICLG2/ktjxx0v6GvVntAf8TvEzeQLcV0ffRirXuA==}
 
   '@types/lodash@4.14.202':
     resolution: {integrity: sha512-OvlIYQK9tNneDlS0VN54LLd5uiPCBOp7gS5Z0f1mjoJYBrtStzgmJBxONW3U6OZqdtNzZPmn9BS/7WI7BFFcFQ==}
@@ -5831,7 +5831,7 @@ packages:
   puppeteer@2.1.1:
     resolution: {integrity: sha512-LWzaDVQkk1EPiuYeTOj+CZRIjda4k2s5w4MK4xoH2+kgWV/SDlkYHmxatDdtYrciHUKSXTsGgPgPP8ILVdBsxg==}
     engines: {node: '>=8.16.0'}
-    deprecated: < 22.6.4 is no longer supported
+    deprecated: < 22.8.2 is no longer supported
 
   q@1.5.1:
     resolution: {integrity: sha512-kV/CThkXo6xyFEZUugw/+pIOywXcDbFYgSct5cT3gqlbkBE1SJdwy6UQoZvodiWF/ckQLZyDE/Bu1M6gVu5lVw==}
@@ -9527,7 +9527,7 @@ snapshots:
     dependencies:
       '@types/lodash': 4.14.202
 
-  '@types/lodash.isequal@4.5.5':
+  '@types/lodash.isequal@4.5.8':
     dependencies:
       '@types/lodash': 4.14.202
 
